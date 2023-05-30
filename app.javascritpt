@@ -1,1 +1,3 @@
 console.log("rodando o sistema de geranciamento de jogo")
+console.log("aplicação esta se conectando ao banco de dados")
+
